@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Abdullah Ayodeele(Silvermoon)
+- 👋 Hi, I’m Abdullah Ayodele(Silvermoon)
 - 👀 I’m interested in programming and reading novel
 - 🌱 I’m currently learning html
 - 💞️ I’m looking to collaborate on website designs
